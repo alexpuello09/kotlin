@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca13f3c1-390b-4037-898a-5dce867565f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/C038TODO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C038TODO/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C039Infix-Functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C039Infix-Functions/C039Infix-Functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C039Infix-Functions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C040Operator-Functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C040Operator-Functions/C040Operator-Functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C040Operator-Functions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/C041Vararg-Parameters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C041Vararg-Parameters/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C042Null-Safety/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C042Null-Safety/src/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2iePZIhDqQ10sYyHibV8P231dI8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca13f3c1-390b-4037-898a-5dce867565f1" name="Changes" comment="" />
+      <created>1719848124842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719848124842</updated>
+    </task>
+    <servers />
+  </component>
+</project>
