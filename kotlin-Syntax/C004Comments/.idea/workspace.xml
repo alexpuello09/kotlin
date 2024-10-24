@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d06eca9a-181a-4fc0-9724-108c74dc8d16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../C000HelloWorld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C000HelloWorld/C000HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C000HelloWorld/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/C001Functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C001Functions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C002Variables/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C002Variables/C002Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C002Variables/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C003Classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C003Classes/C003Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C003Classes/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C004Comments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/C005StringTemplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C005StringTemplate/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C006ConditionalExpressions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C006ConditionalExpressions/C006ConditionalExpressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C006ConditionalExpressions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C007ForLoop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C007ForLoop/C007ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C007ForLoop/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C008WhileLoop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C008WhileLoop/C008WhileLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C008WhileLoop/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C009WhenExpression/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C009WhenExpression/C009WhenExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C009WhenExpression/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C010Ranges/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C010Ranges/C010Ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C010Ranges/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C011Collections/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C011Collections/C011Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C011Collections/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C012NullableValues/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C012NullableValues/C012NullableValues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C012NullableValues/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/C013TypeChecks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C013TypeChecks/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C014Dtos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C014Dtos/C014Dtos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C014Dtos/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C015FilterList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C015FilterList/C015FilterList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C015FilterList/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C016InstanceChecks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C016InstanceChecks/C016InstanceChecks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C016InstanceChecks/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C017ReadOnlyLists/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C017ReadOnlyLists/C017ReadOnlyLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C017ReadOnlyLists/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C018ReadOnlyMaps/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C018ReadOnlyMaps/C018ReadOnlyMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C018ReadOnlyMaps/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019LazyProperty/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019LazyProperty/C019LazyProperty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019LazyProperty/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/C019TraverseAMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C019TraverseAMap/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C020ExtensionFunctions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C020ExtensionFunctions/C020ExtensionFunctions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C020ExtensionFunctions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C021SingletonObject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C021SingletonObject/C021SingletonObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C021SingletonObject/src/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iCe394UOz4RFH8X0ZPvpOo2MBn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06eca9a-181a-4fc0-9724-108c74dc8d16" name="Changes" comment="" />
+      <created>1718998785376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718998785376</updated>
+    </task>
+    <servers />
+  </component>
+</project>
